@@ -5,4 +5,8 @@ hello
 hi
 =======
 byebye
+<<<<<<< HEAD
+>>>>>>> bra
+=======
+weiwei
 >>>>>>> bra
